@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bluesky23.github.io/</id>
-    <title>呆呆&amp;朵朵&amp;丁丁</title>
-    <updated>2020-12-09T02:40:05.540Z</updated>
+    <title>朋记</title>
+    <updated>2020-12-09T02:53:37.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bluesky23.github.io/"/>
     <link rel="self" href="https://bluesky23.github.io/atom.xml"/>
-    <subtitle>We are 伐木累！</subtitle>
+    <subtitle>要掌握一样新技能，需要花的时间是10000小时... ...</subtitle>
     <logo>https://bluesky23.github.io/images/avatar.png</logo>
     <icon>https://bluesky23.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 呆呆&amp;朵朵&amp;丁丁</rights>
+    <rights>All rights reserved 2020, 朋记</rights>
+    <entry>
+        <title type="html"><![CDATA[《Neural Networks and Deep Learning》译——前言]]></title>
+        <id>https://bluesky23.github.io/post/neural-networks-and-deep-learning-qian-yan/</id>
+        <link href="https://bluesky23.github.io/post/neural-networks-and-deep-learning-qian-yan/">
+        </link>
+        <updated>2020-12-09T02:51:16.000Z</updated>
+    </entry>
 </feed>
