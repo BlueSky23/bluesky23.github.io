@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bluesky23.github.io/</id>
     <title>朋记</title>
-    <updated>2020-12-09T03:47:44.132Z</updated>
+    <updated>2020-12-09T03:55:40.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bluesky23.github.io/"/>
     <link rel="self" href="https://bluesky23.github.io/atom.xml"/>
@@ -11,11 +11,11 @@
     <icon>https://bluesky23.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 朋记</rights>
     <entry>
-        <title type="html"><![CDATA[关于我]]></title>
-        <id>https://bluesky23.github.io/post/about/</id>
-        <link href="https://bluesky23.github.io/post/about/">
+        <title type="html"><![CDATA[《Neural Networks and Deep Learning》译——前言]]></title>
+        <id>https://bluesky23.github.io/post/lesslessneural-networks-and-deep-learninggreatergreater-yi-qian-yan/</id>
+        <link href="https://bluesky23.github.io/post/lesslessneural-networks-and-deep-learninggreatergreater-yi-qian-yan/">
         </link>
-        <updated>2020-12-09T03:24:20.000Z</updated>
+        <updated>2020-12-09T03:49:23.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[《Neural Networks and Deep Learning》译，以作分享]]></title>
@@ -27,5 +27,12 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>  人工智能、神经网络和深度学习的概念充斥整个互联网的角角落落，加重了我的好奇心，找到了《Neural Networks and Deep Learning》这个网络教程，作者介绍的通俗易懂， 因此，想试做翻译，同大家共同学习，错误难免，请大家耐心指出，共同探讨。</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://bluesky23.github.io/post/about/</id>
+        <link href="https://bluesky23.github.io/post/about/">
+        </link>
+        <updated>2020-12-08T03:24:20.000Z</updated>
     </entry>
 </feed>
